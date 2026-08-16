@@ -22,6 +22,11 @@ DeepSeek Harness (dsh) Web UI 一键启动脚本。
 - Node.js（≥ 18，https://nodejs.org/）
 - 源码模式额外需要 `pnpm`；npx 模式需要能访问 npm registry
 
+## 资源
+
+- `assets/dsh-favicon.svg` — 官方 favicon 原图（来自 [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) 仓库 `apps/web/public/favicon.svg`，MIT 许可）
+- `assets/dsh-favicon.ico` — 由 SVG 生成的桌面快捷方式图标（品牌鲸鱼蓝，含 16–256 多尺寸）
+
 ## 说明
 
 - 默认端口 `3080`，即 `http://127.0.0.1:3080`
